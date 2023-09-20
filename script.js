@@ -79,8 +79,13 @@ alert("Why are you like this?");
     alert("Find something to believe in, and find it for yourself. When you do, pass it on to the future. -Solid Snake");
 } else if (input == "family" || input == "Family") {
     alert("Heartwarming answer."); 
-} else {
-    alert("On second thought, let’s not go to Camelot. ‘Tis a silly place");
-}
+} else if (input == "pizza" || input == "Pizza") {
+    alert("Anything is pizza, so long as it is flat.");
+    } else if (input =="nothing" || input == "Nothing") {
+        alert("Hopefully that's cheerful nihilism");
+    } else {
+alert("On second thought, let’s not go to Camelot. ‘Tis a silly place");
+    }
+
 
 
