@@ -1,7 +1,8 @@
 
 
 let input = prompt("What is the meaning of life?")
-if (input == "To party" || input == "to party" || input == "To party!" || input == "to party!") {
+input = input.toLowerCase();
+if (input == "to party") {
     alert("You're an animal!");
 } else if (input == "forty-two" || input == "forty two" || input == "42") {
     alert("Ah, that is the ultimate answer, but what is the ultimate question?");
