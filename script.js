@@ -82,6 +82,8 @@ alert("Why are you like this?");
     alert("Anything is pizza, so long as it is flat.");
     } else if (input =="nothing" || input == "Nothing") {
         alert("Hopefully that's cheerful nihilism");
+    } else if (input == "cheeseburgers") {
+        alert("Yum!");
     } else {
 alert("On second thought, let’s not go to Camelot. ‘Tis a silly place");
     }
