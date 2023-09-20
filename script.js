@@ -6,9 +6,7 @@ if (input == "to party") {
     alert("You're an animal!");
 } else if (input == "forty-two" || input == "forty two" || input == "42") {
     alert("Ah, that is the ultimate answer, but what is the ultimate question?");
-} else if (input == "love") {
-    alert("Awwwww.");
-} else if (input == "feet") {
+}  else if (input == "feet") {
     alert("Weird!");
 } else if (input == "sirens") {
     alert("okay Homer");
@@ -32,7 +30,7 @@ if (input == "to party") {
     alert("Yes, but with a Mario-like accent.");
 } else if (input == "water") {
     alert("I mean, yeah, not very imaginitive, but technically correct.");
-} else if (input == "Love") {
+} else if (input == "love") {
     alert("Well, isn't that a nice answer?");
 } else if (input == "sleep") {
     alert("Got it, go talk to morpheus.");
