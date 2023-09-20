@@ -34,7 +34,7 @@ if (input == "to party") {
     alert("Well, isn't that a nice answer?");
 } else if (input == "sleep") {
     alert("Got it, go talk to morpheus.");
-} else if (input == "Dune" || input == "dune" || input == "Dune." || input == "dune.") {
+} else if (input == "dune" || input == "dune.") {
 alert("The spice must flow.");
 } else if (input == "beauty") {
     alert("Go see if Narcissus has any openings.");
@@ -72,7 +72,7 @@ alert("Why are you like this?");
     alert("Lao Tzu approves");
 } else if (input == "to reproduce") {
     alert("That's arguably correct on a technical level.");
-} else if (input == "i don't know" || input == "I don't know" || input == "idk") {
+} else if (input == "i don't know" || input == "i dont know" || input == "idk") {
     alert("How very Ajnana of you.");
 } else if (input == "to pass on knowledge" || input == "To pass on knowledge") {
     alert("Find something to believe in, and find it for yourself. When you do, pass it on to the future. -Solid Snake");
