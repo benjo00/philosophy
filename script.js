@@ -76,11 +76,11 @@ alert("Why are you like this?");
     alert("How very Ajnana of you.");
 } else if (input == "to pass on knowledge" || input == "To pass on knowledge") {
     alert("Find something to believe in, and find it for yourself. When you do, pass it on to the future. -Solid Snake");
-} else if (input == "family" || input == "Family") {
+} else if (input == "family") {
     alert("Heartwarming answer."); 
-} else if (input == "pizza" || input == "Pizza") {
+} else if (input == "pizza") {
     alert("Anything is pizza, so long as it is flat.");
-    } else if (input =="nothing" || input == "Nothing") {
+    } else if (input =="nothing") {
         alert("Hopefully that's cheerful nihilism");
     } else if (input == "cheeseburgers") {
         alert("Yum!");
