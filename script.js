@@ -52,7 +52,7 @@ alert("The spice must flow.");
 alert("Yay neature!");
 } else if (input == "big flopping donkey ears.") {
 alert("Why are you like this?");
-} else if (input == "What is the ultimate question?") {
+} else if (input == "what is the ultimate question?") {
     alert("What do you get when you multiply six by seven?");
 } else if (input == "golf") {
     alert("Hole in one!");
