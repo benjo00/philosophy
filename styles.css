@@ -54,11 +54,19 @@
     
     display: block;
     width: 10%;
-    margin: auto;
+    margin-left: auto;
+    margin-right: 425px;
     
 }
 
-  
+  .all {
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column;
+  }
 
 .crepes {
     color: brown;
