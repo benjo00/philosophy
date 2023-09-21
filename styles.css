@@ -1,15 +1,48 @@
 .Title {
     color: rgb(210, 57, 30);
-    border: 2px solid;
+    
     border-color: black;
-    margin-right: auto;
+    margin-right: 600px;
     margin-left: auto;
-    width: 200px;
+    width: 300px;
+    text-align: center;
     
 
 
 }
 
+.title2 {
+    color: rgb(210, 57, 30);
+    
+    border-color: black;
+    margin-right: 350px;
+    margin-left: auto;
+    width: 300px;
+    text-align: center;
+     
+}
+
+.title3 {
+    color: rgb(210, 57, 30);
+   
+    border-color: black;
+    margin-right: 600px;
+    margin-left: auto;
+    width: 300px;
+    text-align: center;
+    
+}
+
+.title4 {
+    color: rgb(210, 57, 30);
+   
+    border-color: black;
+    margin-right: 425px;
+    margin-left: auto;
+    width: 300px;
+    text-align: center;
+    
+}
 .crepes {
     color: brown;
     font-weight: 900;
@@ -22,13 +55,14 @@
 }
 
 .list {
-    border: 2px solid;
+    
     margin-right: auto;
-    margin-left: auto;
+    margin-left: 525px;
     width: 200px;
     padding: auto;
     list-style-type: none;
     text-decoration: none;
+    text-align: center;
 }
 
 a {
