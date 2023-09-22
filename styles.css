@@ -46,7 +46,8 @@
 
 .titles {
   width: 100%;
-  margin-left: 200px;
+  margin-left: 375px;
+  margin-bottom: -25px;
     
 }
 
@@ -54,9 +55,8 @@
     
     display: block;
     width: 10%;
+    margin-right: 430px;
     margin-left: auto;
-    margin-right: 425px;
-    
 }
 
   .all {
@@ -66,7 +66,8 @@
     align-content: center;
     justify-content: center;
     flex-direction: column;
-  }
+    align-items: center;
+    }
 
 .crepes {
     color: brown;
