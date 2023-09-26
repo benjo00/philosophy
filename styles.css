@@ -213,7 +213,11 @@ gap: 15px;
     background-color: darkkhaki;
 }
 
-
+.hedonism {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
 
 
 
